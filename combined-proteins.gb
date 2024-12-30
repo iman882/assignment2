@@ -1,0 +1,52 @@
+LOCUS       CDZ92723.1               423 aa            linear   UNK 01-JAN-1980
+DEFINITION  CDZ92723.1 tubulin, partial [Leannia veloxifera].
+ACCESSION   CDZ92723
+VERSION     CDZ92723.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  Unknown organism
+            .
+FEATURES             Location/Qualifiers
+     source          1..423
+ORIGIN
+        1 qcgnqignaf wntmcvehql eaasgkfqas kdkvndtqrl skvdvyfkes gkgryvprsv
+       61 lvdlepgtld vikasatgkl fkpdnfcfga sgagnnwakg hytegaelid evvdiirket
+      121 eacncpqgfq vthsigggtg sgmgtllllk irdnypdrit ctysvfpspk vsdvvvepyn
+      181 atlsihqlle nsdetfvidn ealynishnl lkqkepkyne lngvvaqvms gitaslrfsg
+      241 klngdlrkmg vnlvpfprlh ffliaqapif snqnkgkvnl dvkevtsqmw sqsnflanvk
+      301 sdegkylsaa cmyrgnmgtq evddavakvq skmaddfvtw ipnnikssii svspdgtkms
+      361 gtfvanttsl ksvfqrisaq fakmykrkaf lhwykgegmd emefqeadkn lrdlvteyqd
+      421 kqd
+//
+LOCUS       sp|P68871.2|HBB_HUMAN    147 aa            linear   UNK 01-JAN-1980
+DEFINITION  sp|P68871.2|HBB_HUMAN RecName: Full=Hemoglobin subunit beta;
+            AltName: Full=Beta-globin; AltName: Full=Hemoglobin beta chain;
+            Contains: RecName: Full=LVV-hemorphin-7; Contains: RecName:
+            Full=Spinorphin.
+ACCESSION   sp|P68871.2|HBB_HUMAN
+VERSION     sp|P68871.2|HBB_HUMAN
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  Unknown organism
+            .
+FEATURES             Location/Qualifiers
+     source          1..147
+ORIGIN
+        1 mvhltpeeks avtalwgkvn vdevggealg rllvvypwtq rffesfgdls tpdavmgnpk
+       61 vkahgkkvlg afsdglahld nlkgtfatls elhcdklhvd penfrllgnv lvcvlahhfg
+      121 keftppvqaa yqkvvagvan alahkyh
+//
+LOCUS       AAA40590.1               109 aa            linear   UNK 01-JAN-1980
+DEFINITION  AAA40590.1 insulin [Octodon degus].
+ACCESSION   AAA40590
+VERSION     AAA40590.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  Unknown organism
+            .
+FEATURES             Location/Qualifiers
+     source          1..109
+ORIGIN
+        1 mapwmhlltv lallalwgpn svqayssqhl cgsnlvealy mtcgrsgfyr phdrreledl
+       61 qveqaelgle agglqpsale milqkrgivd qccnnictfn qlqnycnvp
+//
